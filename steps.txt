@@ -1,0 +1,9 @@
+>>>>>>>>>>>>>>>>>>>>>>>>  First Steps with Celery >>>>>>>>>>>>>>>>>>
+
+
+Install server
+>>>>>>>>> sudo apt-get install rabbitmq-server
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Installing Celery¶  >>>>>>>>>>>>>>>>>>>
+
+pip install celery
